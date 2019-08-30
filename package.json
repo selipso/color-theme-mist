@@ -1,0 +1,28 @@
+{
+	"name": "thakker-light-mist-hc",
+	"displayName": "Thakker Light Mist HC",
+	"description": "A high contrast light theme made with darker bluish colors on a light background",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.37.0"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Thakker Light Mist Theme High Contrast",
+				"uiTheme": "vs",
+				"path": "./themes/Thakker Light Mist Theme High Contrast-color-theme.json"
+			}
+		]
+	},
+	"publisher": "thakkerOSS",
+	"__metadata": {
+		"id": "2be8b3b7-4ec9-446f-9289-047af86471ad",
+		"publisherDisplayName": "Thakker OSS",
+		"publisherId": "9c53488f-1a67-483f-a3ea-c4edf216cb23"
+	}
+}
