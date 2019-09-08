@@ -20,6 +20,10 @@
 		]
 	},
 	"publisher": "thakkerOSS",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/selipso/color-theme-mist"
+	},
 	"__metadata": {
 		"id": "2be8b3b7-4ec9-446f-9289-047af86471ad",
 		"publisherDisplayName": "Thakker OSS",
